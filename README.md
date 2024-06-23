@@ -1,2 +1,2 @@
-# blackdot.github.io
+# blackdot-web
 Website for Blackdot 3D
